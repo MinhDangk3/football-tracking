@@ -170,31 +170,12 @@ python main.py
 
 ---
 
-## ⚠️ Troubleshooting
-
-* ❌ Thiếu thư viện:
-
-  ```bash
-  pip install supervision
-  ```
-
-* ❌ Video lỗi:
-  → Kiểm tra `input_video/`
-
-* ❌ Model lỗi:
-
-  ```bash
-  python yolo_inf.py
-  ```
-
----
 
 ## 📈 Hướng Phát Triển
 
 * 🔥 Player Re-identification (Re-ID)
 * 📊 Tactical Analysis (chiến thuật)
 * ⚡ Tối ưu FPS real-time
-* 🌐 Deploy Web (Streamlit / FastAPI)
 * 🤖 Kết hợp LLM để phân tích trận đấu
 
 ---
@@ -210,26 +191,12 @@ python main.py
   * Heatmap
   * Tracking nâng cao
 
-👉 Phù hợp với vị trí:
-**AI Engineer / Computer Vision Engineer / ML Engineer**
-
 ---
 
 ## 👨‍💻 Tác Giả
 
 **Lê Minh Đăng**
 🔗 https://github.com/MinhDangk3
-
----
-
-## ⭐ Ghi Điểm Với Nhà Tuyển Dụng
-
-Dự án thể hiện:
-
-* Xây dựng hệ thống AI hoàn chỉnh (end-to-end)
-* Áp dụng Computer Vision vào bài toán thực tế
-* Tư duy thiết kế hệ thống (System Design)
-* Khả năng mở rộng và tối ưu
 
 ---
 
